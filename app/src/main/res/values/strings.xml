@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">RoomWordsSample</string>
+    <string name="app_name">Controle de Combustível</string>
     <string name="action_settings">Settings</string>
     <string name="hint_word">Word…</string>
-    <string name="button_save">Save</string>
-    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="hint_totalPago">Total pago (R$)...</string>
+    <string name="hint_precoCombustivel">Preço Litro (R$)...</string>
+    <string name="hint_qtdAbastecido">Qtd de Litros abastecida</string>
+    <string name="hint_kmAtual">KM atual do carro</string>
+    <string name="hint_tipoCombustivel">Tipo de combustível</string>
+    <string name="hint_gpsPosto">GPS ( LAT / LONG )</string>
+    <string name="button_save">Gravar Registro</string>
+    <string name="empty_not_saved">Registro nao gravado /n(Erro).</string>
 </resources>

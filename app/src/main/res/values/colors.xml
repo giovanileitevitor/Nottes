@@ -2,6 +2,10 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#303F9F</color>
     <color name="buttonLabel">#d3d3d3</color>
+
+    <color name="corAzul">#3F51B5</color>
+    <color name="corBranca">#ffffff</color>
+    <color name="corCinza">#e0e0e0</color>
 </resources>
